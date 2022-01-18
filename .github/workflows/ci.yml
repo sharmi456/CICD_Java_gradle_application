@@ -1,4 +1,4 @@
-name: Java CI with Gradlewww
+name: Java CI with Gradlew-java
 
 on:
   pull_request:
